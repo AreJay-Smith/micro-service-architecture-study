@@ -2,8 +2,10 @@ GET http://ticketing.dev/api/users/currentuser
 ###
 
 POST http://ticketing.dev/api/users/signup
+Content-Type: application/json
 
 {
-  "email": "alksdfasd",
-  "password": "1"
+  "email": "alksdsdfasd@fasdf.com",
+  "password": "asdfasdfdfs"
 }
+###
